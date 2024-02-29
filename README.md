@@ -9,7 +9,7 @@
 
 <p align='center'> Seus albuns de músicas favoritos 🎧 <p>
 
-<p align='center'><button ><a href='' > ACESSAR </a></button></p><br><h1></h1>
+<p align='center'><button ><a href='https://henriquescloud.github.io/Music-Story/index.html' > ACESSAR </a></button></p><br><h1></h1>
 
 
 ## Projeto Open Music
